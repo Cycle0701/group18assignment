@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Maps</title>
+</head>
+<body>
+    <h1>Welcome to Group 18 Assignment</h1>
+    <p>Click on the links below to view the interactive charts and maps:</p>
+    <ul>
+        <li><a href="Image2withyear.html">View Image 2 with Year</a></li>
+        <li><a href="Image1.html">View Image 1</a></li>
+        <li><a href="Chart1.html">View Chart 1</a></li>
+        <li><a href="Chart2.html">View Chart 2</a></li>
+    </ul>
+</body>
+</html>
